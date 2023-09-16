@@ -31,6 +31,10 @@ This is a project following [@phil-opp](https://github.com/phil-opp/blog_os) blo
   ```
   qemu-system-x86_64 -drive format=raw,file=target\x86_64-rust_os\debug\bootimage-rust_os.bin
   ```
+- You can skip the last two steps with
+  ```
+  cargo run
+  ```
 ## Credits
 - [Original Blog](https://os.phil-opp.com/)
 - [Philipp's profile](https://github.com/phil-opp)
