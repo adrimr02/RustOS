@@ -7,7 +7,7 @@ This is a project following [@phil-opp](https://github.com/phil-opp/blog_os) blo
   git clone https://github.com/adrimr02/RustOS.git
   ```
 - Install [Rust](https://www.rust-lang.org/)
-- Switch to a Nightly version of Rust with
+- Switch to the Nightly version of Rust with
   ```
   rustup override set nightly
   ```
